@@ -391,7 +391,7 @@
             ],
             "overrideSource": "GitHub",
             "allowIdChange": true
-        },        
+        },
         {
             "id": "rip.moth.cocoon",
             "url": "https://github.com/inssekt/CocoonFE",
@@ -415,10 +415,29 @@
                 "Utilities"
             ],
             "overrideSource": "GitHub"
-        }
-        
-        
-
+        },
+        {
+            "id": "com.producdevity.emureadylite",
+            "url": "https://github.com/Producdevity/EmuReadyAppReleases",
+            "author": "Producdevity",
+            "name": "EmuReady",
+            "preferredApkIndex": 0,
+            "additionalSettings": "{\"includePrereleases\":true,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false}",
+            "categories": [
+                "Utilities"
+            ],
+            "overrideSource": "GitHub"
+        },
+        {"id": "app.nanostack.pixelguide",
+            "url": "https://github.com/rexmont/Pixel-Guide-Android",
+            "author": "rexmont",
+            "name": "Pixel Guide",
+            "preferredApkIndex": 0,
+            "additionalSettings": "{\"includePrereleases\":true,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false}",
+            "categories": [
+                "Utilities"
+            ],
+            "overrideSource": "GitHub"}
     ],
     "settings": {
         "categories": "{\"Emulator\":4292386421,\"Streaming\":4292056539,\"Utilities\":4292449237,\"Track Only\":4293103815,\"Frontend\":4291470692,\"PC Emulation\":4285381755,\"Dual Screen\":4290947422}",
